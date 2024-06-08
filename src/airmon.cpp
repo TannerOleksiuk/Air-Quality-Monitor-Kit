@@ -4,7 +4,7 @@
  * Modifications Made:
  * - Added battery charging detection and approximation of SoC based on voltage reading.
  * - Flipped display on startup.
- * 
+ * - Added more data to be sent, including raw sensor values from aq sensor
  * Modified by: Tanner Oleksiuk.
  * Original Author: Brandon Satrom <brandon@particle.io>
  * Date: 09/16/2019
